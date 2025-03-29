@@ -1,0 +1,51 @@
+user_id,age,gender,income,location
+1,25,Female,55000,New York
+2,34,Male,72000,Los Angeles
+3,45,Female,64000,Chicago
+4,30,Male,50000,Houston
+5,22,Female,47000,Phoenix
+6,29,Male,69000,Philadelphia
+7,31,Female,52000,San Antonio
+8,40,Male,58000,San Diego
+9,33,Female,76000,Dallas
+10,27,Male,61000,San Jose
+11,28,Female,60000,Detroit
+12,36,Male,75000,San Francisco
+13,42,Female,68000,Seattle
+14,24,Male,54000,Boston
+15,37,Female,67000,Washington
+16,35,Male,71000,Miami
+17,23,Female,48000,Atlanta
+18,32,Male,62000,Denver
+19,39,Female,73000,Austin
+20,26,Male,57000,Las Vegas
+21,21,Female,46000,New York
+22,29,Male,69000,Los Angeles
+23,38,Female,70000,Chicago
+24,27,Male,60000,Houston
+25,25,Female,55000,Phoenix
+26,33,Male,74000,Philadelphia
+27,34,Female,71000,San Antonio
+28,41,Male,69000,San Diego
+29,36,Female,76000,Dallas
+30,28,Male,63000,San Jose
+31,29,Female,65000,Detroit
+32,37,Male,80000,San Francisco
+33,43,Female,72000,Seattle
+34,25,Male,56000,Boston
+35,38,Female,68000,Washington
+36,36,Male,75000,Miami
+37,24,Female,47000,Atlanta
+38,33,Male,63000,Denver
+39,40,Female,76000,Austin
+40,27,Male,58000,Las Vegas
+41,22,Female,45000,New York
+42,31,Male,70000,Los Angeles
+43,38,Female,69000,Chicago
+44,29,Male,61000,Houston
+45,23,Female,51000,Phoenix
+46,34,Male,72000,Philadelphia
+47,35,Female,72000,San Antonio
+48,42,Male,67000,San Diego
+49,37,Female,75000,Dallas
+50,30,Male,66000,San Jose
